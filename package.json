@@ -12,17 +12,17 @@
     "resourceful": "0.3.x"
   },
   "dependencies": {
-    "director": "1.1.x",
+    "director": "~1.2.8",
     "director-explorer": "*",
     "resourceful": "0.3.x",
-    "utile": "0.1.x",
+    "utile": "~0.3.0",
     "qs": "*"
   },
   "devDependencies": {
-    "vows": "0.6.x",
-    "api-easy": "0.3.x",
-    "flatiron": "0.2.x",
-    "union": "0.3.x"
+    "vows": "~0.8.1",
+    "api-easy": "~0.4.0",
+    "flatiron": "~0.4.3",
+    "union": "~0.4.6"
   },
   "optionalDependencies": {},
   "engines": {
